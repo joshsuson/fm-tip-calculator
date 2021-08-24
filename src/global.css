@@ -1,0 +1,26 @@
+html {
+	--primary-color: hsl(172, 67%, 45%);
+	--white: hsl(0, 0%, 100%);
+	--dark-cyan: hsl(184, 14%, 56%);
+	--darker-cyan: hsl(186, 14%, 43%);
+	--darkest-cyan: hsl(183, 100%, 15%);
+	--light-cyan: hsl(185, 41%, 84%);
+	--lighter-cyan: hsl(189, 41%, 97%);
+	--error: #c8867e;
+	box-sizing: border-box;
+	font-size: 8px;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+
+body {
+	font-family: 'Space Mono', monospace;
+	margin: 0;
+	padding: 0;
+	font-size: 2rem;
+	line-height: 1.5;
+}
