@@ -9,7 +9,7 @@ I built this as a one day project so I could use it as a coding challenge in an 
 
 ## Links
 
-[Live Site](https://fm-tip-calculator.netlify.app/)
+[Live Site](https://fm-tip-calculator.netlify.app/)  
 [The Challenge](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX)
 
 ## Running Project Locally
